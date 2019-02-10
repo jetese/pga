@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jetes\desktop\univversidad\procesadores graficos\practicas\practicaopengl\opengl2\opengl\main.cpp(133): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+  Opengl.vcxproj -> C:\Users\jetes\Desktop\Univversidad\Procesadores graficos\Practicas\PracticaOpengl\Opengl2\Debug\Opengl.exe
+  Opengl.vcxproj -> C:\Users\jetes\Desktop\Univversidad\Procesadores graficos\Practicas\PracticaOpengl\Opengl2\Debug\Opengl.pdb (Partial PDB)
