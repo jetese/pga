@@ -1,0 +1,8 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\jetes\Desktop\Univversidad\Procesadores graficos\Practicas\PracticaCuda\2\Pra1Cuda>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env --cl-version 2015 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64" -x cu  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\jetes\Desktop\Univversidad\Procesadores graficos\Practicas\PracticaCuda\2\Pra1Cuda\kernel.cu" 
+C:/Users/jetes/Desktop/Univversidad/Procesadores graficos/Practicas/PracticaCuda/2/Pra1Cuda/kernel.cu(69): warning : variable "size" was declared but never referenced
+C:/Users/jetes/Desktop/Univversidad/Procesadores graficos/Practicas/PracticaCuda/2/Pra1Cuda/kernel.cu(69): warning : variable "size" was declared but never referenced
+  kernel.cu
+  Pra1Cuda.vcxproj -> C:\Users\jetes\Desktop\Univversidad\Procesadores graficos\Practicas\PracticaCuda\2\x64\Debug\Pra1Cuda.exe
+  Pra1Cuda.vcxproj -> C:\Users\jetes\Desktop\Univversidad\Procesadores graficos\Practicas\PracticaCuda\2\x64\Debug\Pra1Cuda.pdb (Partial PDB)

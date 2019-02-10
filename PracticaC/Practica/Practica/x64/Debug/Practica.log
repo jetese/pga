@@ -1,0 +1,61 @@
+﻿  Source.cpp
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(14): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(14): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(15): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(15): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(16): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(16): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(17): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(17): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(18): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(18): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(19): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(19): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(20): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(20): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(21): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(21): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(22): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(22): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(23): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(23): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(24): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(24): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(25): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(25): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(26): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(26): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(27): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(27): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(28): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(28): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(29): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(29): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(11): warning C4101: 'c': variable local sin referencia
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(41): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(41): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(42): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'std::size_t'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(42): note: considere el uso de ' %zd' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(38): warning C4101: 'estru': variable local sin referencia
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(39): warning C4101: 'estra': variable local sin referencia
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(76): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char *'
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(76): warning C4313: 'printf': '%d' de la cadena de formato origina conflictos con el argumento 1 del tipo 'char *'
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(77): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo '__int64'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(77): note: considere el uso de ' %lld' en la cadena de formato
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(77): note: considere el uso de ' %Id' en la cadena de formato
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(77): note: considere el uso de ' %I64d' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(95): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char *'
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(95): warning C4313: 'printf': '%d' de la cadena de formato origina conflictos con el argumento 1 del tipo 'char *'
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(96): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo '__int64'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(96): note: considere el uso de ' %lld' en la cadena de formato
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(96): note: considere el uso de ' %Id' en la cadena de formato
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(96): note: considere el uso de ' %I64d' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(99): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'float *'
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(99): warning C4313: 'printf': '%d' de la cadena de formato origina conflictos con el argumento 1 del tipo 'float *'
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(100): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo '__int64'
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(100): note: considere el uso de ' %lld' en la cadena de formato
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(100): note: considere el uso de ' %Id' en la cadena de formato
+  c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(100): note: considere el uso de ' %I64d' en la cadena de formato
+c:\users\jetes\documents\visual studio 2015\projects\practica\practica\source.cpp(101): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'double'
+  Practica.vcxproj -> C:\Users\jetes\Documents\Visual Studio 2015\Projects\Practica\x64\Debug\Practica.exe
+  Practica.vcxproj -> C:\Users\jetes\Documents\Visual Studio 2015\Projects\Practica\x64\Debug\Practica.pdb (Partial PDB)
