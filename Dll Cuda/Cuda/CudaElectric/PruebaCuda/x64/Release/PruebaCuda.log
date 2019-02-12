@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (PruebaCuda.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LINK : se especificó /LTCG pero no se requiere generación de código; quite /LTCG de la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+  PruebaCuda.vcxproj -> C:\Git\Arritmias\Desarrollo\PruebasUnity\Cuda\CudaElectric\x64\Release\kernel.dll
+  PruebaCuda.vcxproj -> C:\Git\Arritmias\Desarrollo\PruebasUnity\Cuda\CudaElectric\x64\Release\kernel.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Git\Arritmias\Desarrollo\PruebasUnity\Cuda\CudaElectric\x64\Release\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 archivo(s) copiado(s).
